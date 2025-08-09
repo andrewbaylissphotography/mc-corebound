@@ -1,0 +1,26 @@
+---
+name: Feature request✨ Feature Request
+about: Suggest a new feature or improvement
+title: "[FEATURE] Short description"
+labels: enhancement
+assignees: ''
+
+---
+
+---
+name: "✨ Feature Request"
+about: Suggest a new feature or improvement
+title: "[FEATURE] Short description"
+labels: enhancement
+---
+
+### 💡 Idea
+Describe what you'd like to see added or changed.
+
+### ✅ Why It Matters
+What does this improve for gameplay, balance, or accessibility?
+
+### 🔗 Related Systems
+- Toolbelt
+- Skyblock
+- Potionbelt
